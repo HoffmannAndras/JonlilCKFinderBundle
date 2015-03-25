@@ -7,6 +7,10 @@
         {
             "name": "Jonas Liljestrand",
             "email": "jonas.liljestrand@gmail.com"
+        },
+        {
+            "name": "András Hoffmann",
+            "email": "hoffman.andras@1nd.hu"
         }
     ],
     "require": {
@@ -14,7 +18,7 @@
         "symfony/framework-bundle": ">=2.1",
         "symfony/assetic-bundle": ">=2.1",
         "egeloen/ckeditor-bundle": "2.2.*@dev",
-        "jonlil/ckfinder": "2.3.1"
+        "nigga/ckfinder": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "*",
