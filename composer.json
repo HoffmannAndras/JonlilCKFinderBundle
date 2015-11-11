@@ -30,5 +30,5 @@
     "autoload": {
         "psr-0": { "Jonlil\\CKFinderBundle": "" }
     },
-    "target-dir": "Jonlil/CKFinderBundle",
+    "target-dir": "Jonlil/CKFinderBundle"
 }
