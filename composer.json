@@ -31,5 +31,4 @@
         "psr-0": { "Jonlil\\CKFinderBundle": "" }
     },
     "target-dir": "Jonlil/CKFinderBundle",
-    "version": "2.3.0"
 }
