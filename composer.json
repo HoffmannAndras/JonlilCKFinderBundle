@@ -18,7 +18,7 @@
         "symfony/framework-bundle": ">=2.1",
         "symfony/assetic-bundle": ">=2.1",
         "egeloen/ckeditor-bundle": "2.2.*@dev",
-        "nigga/ckfinder": "3.0.0"
+        "nigga/ckfinder": "~3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "*",
